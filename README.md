@@ -13,8 +13,8 @@ SQLite database interaction
 User-friendly interface with Streamlit
 Requirements
 
-Python 3.x
-Streamlit
-google-generativeai
-python-dotenv
+Python 3.x,
+Streamlit,
+google-generativeai,
+python-dotenv,
 sqlite3
